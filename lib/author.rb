@@ -24,11 +24,6 @@ class Author
     post.author = self
   end
   
-  def self.song_count
-    @@total_songs
-  end
-  
-  
 end
 
 

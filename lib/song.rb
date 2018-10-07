@@ -8,7 +8,7 @@ class Song
     # @genre = genre
   end
   
-  def self.all_songs
+  def self.all
     @@all_songs
   end
 end

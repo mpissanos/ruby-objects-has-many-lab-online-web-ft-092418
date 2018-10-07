@@ -10,4 +10,9 @@ class Author
     @posts
   end
   
+  def add_post(new_post)
+    new_post = self.
+    
+  end
+  
 end
